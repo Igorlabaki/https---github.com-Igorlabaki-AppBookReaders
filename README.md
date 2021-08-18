@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+---
 
-## Getting Started
+###Welcome Page
 
-First, run the development server:
+![Captura de Tela (62)](https://user-images.githubusercontent.com/62656936/129947159-ab9dae8b-efb9-4ce8-ba0f-bd40ddbb8a16.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+###Login Modal
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![Captura de Tela (63)](https://user-images.githubusercontent.com/62656936/129947406-d2fa4dc1-adb1-4f23-8606-9bc6fb865402.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+###Discovery Page
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Captura de Tela (67)](https://user-images.githubusercontent.com/62656936/129947507-b0274167-7ae3-4a61-9c83-6fd2f6a9ad9d.png)
 
-## Learn More
+###Profile Page
 
-To learn more about Next.js, take a look at the following resources:
+![Captura de Tela (68)](https://user-images.githubusercontent.com/62656936/129947541-132b7cd3-6bb1-4fe4-91df-19afa9c6c6ec.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
